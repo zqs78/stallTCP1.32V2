@@ -12,7 +12,7 @@ const SUB_TOKEN = "";  //ST裂变Token，留空不启用，支持环境变量 SU
 const DEFAULT_PROXY_IP = 'Pro'+'xy'+'IP.US.CM'+'Liu'+'ssss.net'; //单个proxyip socks5 http
 const DEFAULT_SUB_DOMAIN = 'su'+'b.cm'+'liu'+'ssss.net'; //单个sub优选订阅
 const DEFAULT_CONVERTER = 'htt'+'ps://su'+'bap'+'i.cm'+'liu'+'ssss.net'; //转换后端api
-
+ 
 // --- 界面与链接配置 ---
 const LOGIN_PAGE_TITLE = "Worker Login"; // 修改你的登录页标题
 const DASHBOARD_TITLE = "烈火控制台 · Glass LH"; //修改你的管理后台标题
